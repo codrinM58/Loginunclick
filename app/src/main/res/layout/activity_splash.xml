@@ -19,7 +19,7 @@
             <ImageView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:src="@drawable/ic_person"
+                android:src="@drawable/logo"
                 android:contentDescription="logo"
                 />
         </LinearLayout>
@@ -29,6 +29,7 @@
             android:orientation="vertical"
             android:gravity="center"
             android:layout_weight="0.5">
+
             <ProgressBar
                 android:id="@+id/splashProgress"
                 style="?android:attr/progressBarStyleHorizontal"
@@ -44,7 +45,7 @@
             <ImageView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:src="@drawable/ic_lock"
+                android:src="@drawable/user"
                 android:contentDescription="logo2"
                 />
         </LinearLayout>

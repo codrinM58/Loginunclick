@@ -5,7 +5,9 @@
       <map>
         <entry key="..\:/Users/codri/AndroidStudioProjects/Loginunclick/app/src/main/res/drawable-v24/border_button.xml" value="0.2212962962962963" />
         <entry key="..\:/Users/codri/AndroidStudioProjects/Loginunclick/app/src/main/res/drawable-v24/border_text.xml" value="0.12604166666666666" />
-        <entry key="..\:/Users/codri/AndroidStudioProjects/Loginunclick/app/src/main/res/layout/activity_main.xml" value="0.20677083333333332" />
+        <entry key="..\:/Users/codri/AndroidStudioProjects/Loginunclick/app/src/main/res/drawable-v24/ic_lock.xml" value="0.13385416666666666" />
+        <entry key="..\:/Users/codri/AndroidStudioProjects/Loginunclick/app/src/main/res/drawable-v24/ic_person.xml" value="0.13385416666666666" />
+        <entry key="..\:/Users/codri/AndroidStudioProjects/Loginunclick/app/src/main/res/layout/activity_main.xml" value="0.18" />
         <entry key="..\:/Users/codri/AndroidStudioProjects/Loginunclick/app/src/main/res/layout/activity_splash.xml" value="0.22447916666666667" />
       </map>
     </option>
